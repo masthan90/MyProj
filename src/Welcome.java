@@ -16,6 +16,7 @@ public class Welcome {
 		Welcome s = new Welcome();
 		System.out.println(s.m);//0
 		s.xxx();
+		//test
 	}
 
 }
